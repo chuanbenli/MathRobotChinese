@@ -1,0 +1,11 @@
+ID	URL	TYPE	ANNOTATION_STATUS
+1001	https://wenku.baidu.com/view/71098777af1ffc4ffe47ac4b.html	加减	Done
+1002	https://wenku.baidu.com/view/36ef101f6bd97f192279e9ee.html	加减	Done
+1003	http://new.060s.com/article/2015/11/13/2048473.htm	加减	Done
+1004	https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html	加减	Done
+1005	https://wenku.baidu.com/view/71098777af1ffc4ffe47ac4b.html	加减	Done
+1006	https://wenku.baidu.com/view/37e884eff61fb7360b4c654f.html	加减	Done
+1007	https://zhidao.baidu.com/question/585851695897381045.html	加减	Done
+1008	https://zhidao.baidu.com/question/586435965.html?qbl=relate_question_1&word=%D2%BB%C4%EA%BC%B6%D3%A6%D3%C3%CC%E2	加减	Ongoing
+1009	https://zhidao.baidu.com/question/579150390.html?qbl=relate_question_1&word=%D2%BB%C4%EA%BC%B6%D3%A6%D3%C3%CC%E2	加减	Ongoing
+1010	http://www.xueersi.com/xue/fangfa/2982059.html	Ongoing

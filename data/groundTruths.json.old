@@ -1,0 +1,202 @@
+[
+  {
+    "original_text": "小华有16支铅笔，送给小明6支，现在还剩多少支？", 
+    "sources": [
+      "https://wenku.baidu.com/view/36ef101f6bd97f192279e9ee.html"
+    ], 
+    "flag": 0, 
+    "ans": "10", 
+    "equations": "unkn: n\r\nequ: 16-6=n", 
+    "id": "201700001"
+  },
+  {
+    "original_text": "草地上3只小鸡在做游戏，来了2只小鸡后，后来又来了3只，现在共有多少只小鸡在做游戏？", 
+    "sources": [
+      "https://wenku.baidu.com/view/36ef101f6bd97f192279e9ee.html"
+    ], 
+    "flag": 0, 
+    "ans": "8", 
+    "equations": "unkn: n\r\nequ: 3+2+3=n", 
+    "id": "201700002"
+  },
+  {
+    "original_text": "树上有12个小鸟又飞来了5只，不久有4只小鸟飞走了，树上还有多少只小鸟？", 
+    "sources": [
+      "https://wenku.baidu.com/view/36ef101f6bd97f192279e9ee.html"
+    ], 
+    "flag": 0, 
+    "ans": "13", 
+    "equations": "unkn: n\r\nequ: 12+5-4=n", 
+    "id": "201700003"
+  },
+  {
+    "original_text": "小红有10个本子，用了5个本子，小红还剩多少个本子？", 
+    "sources": [
+      "https://wenku.baidu.com/view/36ef101f6bd97f192279e9ee.html"
+    ], 
+    "flag": 0, 
+    "ans": "5", 
+    "equations": "unkn: n\r\nequ: 10-5=n", 
+    "id": "201700004"
+  },
+  {
+    "original_text": "河里有6只鸭子，又来了5只，河里共有多少只鸭子？", 
+    "sources": [
+      "https://wenku.baidu.com/view/36ef101f6bd97f192279e9ee.html"
+    ], 
+    "flag": 0, 
+    "ans": "11", 
+    "equations": "unkn: n\r\nequ: 6+5=n", 
+    "id": "201700005"
+  },
+  {
+    "original_text": "十一月份总共30天，过去了6天，还有几天？",
+    "sources": [
+      "https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html"
+    ],
+    "flag":0,
+    "ans":"24",
+    "equations":"30-6=n",
+    "id":"201700006"
+  },
+  {
+    "original_text": "一年12个月，过去了10个月，还有几个月？",
+    "sources": [
+      "https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html"
+    ],
+    "flag":0,
+    "ans":"2",
+    "equations":"12-10=n",
+    "id":"201700007"
+  },
+  {
+    "original_text": "老白养了16只大山羊和11只小羊，老白一共有多少只羊？",
+    "sources": [
+      "https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html"
+    ],
+    "flag":0,
+    "ans":"27",
+    "equations":"16+11=n",
+    "id":"201700008"
+  },
+  {
+    "original_text": "爸爸养了6条红色金鱼，5条彩色金鱼，爸爸总共养了几条鱼？",
+    "sources": [
+      "https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html"
+    ],
+    "flag":0,
+    "ans":"11",
+    "equations":"6+5=11",
+    "id":"201700009"
+  },
+  {
+    "original_text": "大五班有30个小朋友， 今天3个小朋友没来，大五班今天共来了多少个小朋友？",
+    "sources": [
+      "https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html"
+    ],
+    "flag":0,
+    "ans":"27",
+    "equations":"30-3=n",
+    "id":"201700010"
+  },
+  {
+    "original_text": "马队里有15匹马，先来了6匹，又来了9匹，总共有多少匹马？",
+    "sources": [
+      "https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html"
+    ],
+    "flag":0,
+    "ans":"30",
+    "equations":"15+6+9=n",
+    "id":"201700011"
+  },
+  {
+    "original_text": "小林有18朵花，分给小白7朵，又分给小明5朵，小林还有几朵花？",
+    "sources": [
+      "https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html"
+    ],
+    "flag":0,
+    "ans":"6",
+    "equations":"18-7-5=n",
+    "id":"201700012"
+  },
+  {
+    "original_text": "阳阳有12个洋娃娃，爸爸又买了2个，妈妈买了3个，阳阳一共有几个洋娃娃？",
+    "sources": [
+      "https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html"
+    ],
+    "flag":0,
+    "ans":"17",
+    "equations":"12+2+3=n",
+    "id":"201700013"
+  },
+  {
+    "original_text": "小花的书架上有45本书，拿下来9本，又放回去3本，书架上现在有多少本书？",
+    "sources": [
+      "https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html"
+    ],
+    "flag":0,
+    "ans":"39",
+    "equations":"45-9+3=n",
+    "id":"201700014"
+  },
+  {
+    "original_text": "幼儿园大班有7个，中班有8个，小班有8个，幼儿园总共几个班？",
+    "sources": [
+      "https://wenku.baidu.com/view/8f9a2363f56527d3240c844769eae009581ba2dc.html"
+    ],
+    "flag":0,
+    "ans":"23",
+    "equations":"7+8+8=n",
+    "id":"201700015"
+  },
+  {
+    "original_text": "原来有22人看戏，又来了13人，现在看戏的有多少人？",
+    "sources": [
+      "https://wenku.baidu.com/view/71098777af1ffc4ffe47ac4b.html"
+    ],
+    "flag":0,
+    "ans":"35",
+    "equations":"22+13=n",
+    "id":"201700016"
+  },
+  {
+    "original_text": "面包房做了54个面包，第一组买了22个，还剩多少个？",
+    "sources": [
+      "https://wenku.baidu.com/view/71098777af1ffc4ffe47ac4b.html"
+    ],
+    "flag":0,
+    "ans":"32",
+    "equations":"54-22=n",
+    "id":"201700017"
+  },
+  {
+    "original_text": "原来有22人看戏，又来了13人，现在看戏的有多少人？",
+    "sources": [
+      "https://wenku.baidu.com/view/71098777af1ffc4ffe47ac4b.html"
+    ],
+    "flag":0,
+    "ans":"35",
+    "equations":"22+13=n",
+    "id":"201700018"
+  },
+  {
+    "original_text": "小华有4支铅笔，他又买了3支，后来用去了5支，他还有多少支？",
+    "sources": [
+      "http://www.wenku1.com/news/0B60B2299C51426F.html"
+    ],
+    "flag": "G1|加减混合运算",
+    "ans":"2",
+    "equations":"4+3-5=n",
+    "id":"201700019"
+  },
+  {
+    "original_text": "小明和小红写字，小明写了71个，小红写了15个，谁写得多？多几个？",
+    "sources": [
+      "https://wenku.baidu.com/view/71098777af1ffc4ffe47ac4b.html"
+    ],
+    "flag": "G1",
+    "ans":"小明||56",
+    "equations":"71>15||4+3-5=n",
+    "id":"201700020"
+  }
+]
